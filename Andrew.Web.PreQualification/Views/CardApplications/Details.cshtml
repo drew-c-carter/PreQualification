@@ -1,0 +1,81 @@
+﻿@model Andrew.Web.PreQualification.ViewModels.Credit.AvailableCreditViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Results</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.application.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.application.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.application.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.application.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.application.DateOfBirth)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.application.DateOfBirth)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.application.SubmissionDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.application.SubmissionDate)
+        </dd>
+    </dl>
+</div>
+<div>
+	@if (Model.applicationResults.Count() > 0)
+	{
+		<h4>Results</h4>
+		@foreach (var result in Model.applicationResults)
+		{
+			<hr />
+			<dl class="dl-horizontal cardresult">
+				<dt>
+					@Html.DisplayNameFor(model => result.CardName)
+				</dt>
+				<dd>
+					@Html.DisplayFor(model => result.CardName)
+				</dd>
+				<dt>
+					@Html.DisplayNameFor(model => result.Apr)
+				</dt>
+				<dd>
+					@Html.DisplayFor(model => result.Apr)
+				</dd>
+				<dt>
+					@Html.DisplayNameFor(model => result.PromotionalMessage)
+				</dt>
+				<dd>
+					@Html.DisplayFor(model => result.PromotionalMessage)
+				</dd>
+			</dl>
+
+		}
+
+	}
+	else
+	{
+		<div class="noresults">
+			<h4>no credit cards are available</h4>
+			<p>There are currently no cards available for your appplication.</p>
+		</div>
+
+	}
+	</div>
+
+<div>
+    <a asp-action="Create">New Application</a>
+</div>

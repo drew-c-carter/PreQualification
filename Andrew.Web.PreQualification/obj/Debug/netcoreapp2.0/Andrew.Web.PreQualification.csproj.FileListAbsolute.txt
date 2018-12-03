@@ -1,0 +1,12 @@
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.deps.json
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.runtimeconfig.json
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.runtimeconfig.dev.json
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.pdb
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.csprojAssemblyReference.cache
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.csproj.CoreCompileInputs.cache
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.AssemblyInfoInputs.cache
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.AssemblyInfo.cs
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.pdb

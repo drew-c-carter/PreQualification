@@ -1,0 +1,17 @@
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.deps.json
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.runtimeconfig.json
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.runtimeconfig.dev.json
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.pdb
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\bin\Debug\netcoreapp2.0\Andrew.Web.PreQualification.pdb
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.csprojAssemblyReference.cache
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.csproj.CoreCompileInputs.cache
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.AssemblyInfoInputs.cache
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.AssemblyInfo.cs
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.csproj.CopyComplete
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.dll
+C:\WorkArea\Workspace\VS2017\PreQualification\Andrew.Web.PreQualification.Tests\obj\Debug\netcoreapp2.0\Andrew.Web.PreQualification.Tests.pdb
